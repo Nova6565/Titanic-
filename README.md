@@ -57,8 +57,7 @@ The app is built using:
 ### 1️⃣ Clone the repository
 
 ```bash
-git clone <your-repo-link>
-cd <repo-folder>
+git clone https://github.com/Nova6565/titanic-.git
 ```
 
 ### 2️⃣ Install required libraries
